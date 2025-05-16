@@ -45,14 +45,14 @@ namespace HelloWorld
 
 I am not using `using System;`, but instead I am writing the full name: `System.Console.WriteLine`.
 
-So, why do both work?
+### So, why do both work?
 
 Because:
 - `Console` is part of the `System` namespace.
 - If I write `using System;`, I can just say `Console.WriteLine(...)`
 - If I don't use `using System;`, I need to write the full name: `System.Console.WriteLine(...)`
 
-Think of it like this:
+### Think of it like this:
 
 Imagine you live in a house (`System`) and you want to use a toaster (`Console.WriteLine()`):
 - If you are already inside the house (`using System;`), you can just say "use the toaster."
@@ -62,7 +62,7 @@ Imagine you live in a house (`System`) and you want to use a toaster (`Console.W
 
 ## Console.ReadLine
 
-What does this do?
+### What does this do?
 
 When a program runs and hits `Console.WriteLine()`, it:
 1. Waits for the user to type something.
@@ -93,7 +93,7 @@ The output will be:
 Hello, Seyeon!
 ```
 
-Anything else?
+### Anything else?
 
 `Console.ReadLine` pauses the program
 
