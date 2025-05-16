@@ -92,3 +92,14 @@ The output will be:
 ```
 Hello, Seyeon!
 ```
+
+Anything else?
+
+`Console.ReadLine` pauses the program
+
+The program will wait at `Console.ReadLine()` until the user presses enter. This is useful when you want the program to stop and wait.
+
+```csharp
+Console.WritLine("Press enter to exit...");
+Console.ReadLine(); // waits until user hits enter
+```
