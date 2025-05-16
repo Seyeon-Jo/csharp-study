@@ -54,3 +54,6 @@ Because:
 
 Think of it like this:
 
+Imagine you live in a house (`System`) and you want to use a toaster (`Console.WriteLine()`):
+- If you are already inside the house (`using System;`), you can just say "use the toaster."
+- If you are outside the house, you need to say "go to the house and use the toaster" (`System.Console.WriteLine`).
