@@ -1,3 +1,4 @@
 # C# Programming
 Reference link: [Learn C# Programming - Full Course with Mini-Projects](https://www.youtube.com/watch?v=YrtFtdTTfv0) from freeCodeCamp.org
-- [01-Hello World](csharp-freecodecamp/01-HelloWorld.md) 
+- [01. Hello World](csharp-freecodecamp/01-HelloWorld.md)
+- [02. Numeric Data Types](csharp-freecodecamp/02-NumericDataTypes.md)
