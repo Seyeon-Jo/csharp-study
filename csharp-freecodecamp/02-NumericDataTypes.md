@@ -67,4 +67,17 @@ short students = 1200;
 <br> 
 
 ## Declaring and Initializing
-e
+
+Initializing and declaring in the same line:
+```csharp
+int age = 23; // Initializing and declaring in the same line
+
+Console.WriteLine(age); // print out age '23'
+```
+
+Initializing and declaring separately:
+```csharp
+int age; // declare in the first line
+age = 23; // give it an initial value in the second line
+```
+
