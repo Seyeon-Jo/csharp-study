@@ -5,7 +5,7 @@
 ## Numeric Data Types Table
 
 | Type | Use For | Example |
-| :---: | :------: | :------: |
+| :--- | :------ | :------ |
 | int | whole numbers | int x = 10; |
 | double | decimals (default) | double d = 3.14; |
 | float | decimals (less precise) | float f = 3.14f; |
