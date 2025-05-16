@@ -15,55 +15,45 @@ int age = 25;
 ````
 
 ### 2. `double`
-
-* Purpose: Decimal numbers with high precision
-* Example:
-
+- Purpose: Decimal numbers with high precision
+- Example:
 ```csharp
 double price = 19.99;
 ```
 
 ### 3. `float`
-
-* Purpose: Decimal numbers with lower precision than `double`
-* Note: Add `f` at the end of the number
-* Example:
-
+- Purpose: Decimal numbers with lower precision than `double`
+- Note: Add `f` at the end of the number
+- Example:
 ```csharp
 float temperature = 36.6f;
 ```
 
 ### 4. `decimal`
-
-* Purpose: Used for money or high-precision decimal values
-* Note: Add `m` at the end of the number
-* Example:
-
+- Purpose: Used for money or high-precision decimal values
+- Note: Add `m` at the end of the number
+- Example:
 ```csharp
 decimal salary = 4500.75m;
 ```
 
 ### 5. `long`
-
-* Purpose: Whole numbers larger than `int`
-* Range: –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-* Example:
-
+- Purpose: Whole numbers larger than `int`
+- Range: –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+- Example:
 ```csharp
 long population = 8000000000;
 ```
 
 ### 6. `short`
-
-* Purpose: Small whole numbers
-* Range: –32,768 to 32,767
-* Example:
-
+- Purpose: Small whole numbers
+- Range: –32,768 to 32,767
+- Example:
 ```csharp
 short students = 1200;
 ```
 
-## 📊 Quick Comparison Table
+### Quick Comparison Table
 
 | Type      | Description                      | Range/Note                      | Example                         |
 | --------- | -------------------------------- | ------------------------------- | ------------------------------- |
@@ -77,3 +67,4 @@ short students = 1200;
 <br> 
 
 ## Declaring and Initializing
+e
