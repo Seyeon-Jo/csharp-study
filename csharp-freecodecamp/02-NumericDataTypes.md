@@ -81,3 +81,11 @@ int age; // declare in the first line
 age = 23; // give it an initial value in the second line
 ```
 
+<br>
+
+## Max Value and Min Value
+
+```csharp
+Console.WriteLine(int.MaxValue); // output: 2147483647
+Console.WriteLine(int.MinValue); // output: -2147483647
+```
