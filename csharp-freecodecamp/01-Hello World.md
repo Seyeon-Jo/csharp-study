@@ -1,7 +1,5 @@
 # Hello World
 
----
-
 ## Why do both work?
 
 ```csharp
